@@ -1,0 +1,19 @@
+name = "starter-stories"
+compatibility_date = "2023-12-01"
+
+[vars]
+DATABASE_URL="prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiNzAwYWQ2NDgtNDQ2Ni00NjU4LWI0OTctMjYxMmY0MWNkMDZiIiwidGVuYW50X2lkIjoiYzIxMGVjYWZmNDRmODg2ZmY4ZGU0YmRhMGMyOWJhNGYyNDUzNTBhMGNmYjU5ZWIwMWE0YjU3MmFkZThmYjVmNyIsImludGVybmFsX3NlY3JldCI6ImJhZTI2YzllLWY1MWUtNGEzZi1hNzA3LTU4MjAwNzNmYWU5NSJ9.FxWt59Snr8ba_uWksdXQ4PLE9Y2Y2h9y-yljJesxKsQ"
+JWT_SECRET = "mitesh1secret"
+# [[kv_namespaces]]
+# binding = "MY_KV_NAMESPACE"
+# id = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+
+# [[r2_buckets]]
+# binding = "MY_BUCKET"
+# bucket_name = "my-bucket"
+
+# [[d1_databases]]
+# binding = "DB"
+# database_name = "my-database"
+# database_id = ""
+
